@@ -1,5 +1,5 @@
-nome = 'Fernando Puebla Stein' # Solicita que o usuário digite um nome
-nomeMaiusculo = nome.upper()  # Corrigido o nome da variável (Maiusculo)
+nome = 'Fernando Puebla Stein' 
+nomeMaiusculo = nome.upper() 
 nomeMinusculo = nome.lower()
 qntLetras = len(nome)
 nomeTrocado = nome.replace('Stein','Do Inatel')
